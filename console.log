@@ -1,0 +1,1204 @@
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (anim_3wayblend)
+CSoundEmitterSystem:  Registered 5377 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 26 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (anim_3wayblend)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config_default.cfg
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Sound Initialization: Start
+DS:7.1 speaker configuration detected
+Set primary sound buffer format: yes
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 2.4 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: boxbama01
+A custom HDR cubemap "materials/maps/boxbama01/c1689_494_844.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1689_494_844.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1689_494_844.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1689_494_844.hdr' -- Trying non HDR 'maps/boxbama01/c1689_494_844'
+"materials/maps/boxbama01/c1689_494_844.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1689_494_844' not found.
+"materials/maps/boxbama01/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1568_480_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1568_480_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1568_480_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1568_480_833.hdr' -- Trying non HDR 'maps/boxbama01/c1568_480_833'
+"materials/maps/boxbama01/c1568_480_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1568_480_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1648_-64_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1648_-64_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1648_-64_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1648_-64_833.hdr' -- Trying non HDR 'maps/boxbama01/c1648_-64_833'
+"materials/maps/boxbama01/c1648_-64_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1648_-64_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2032_-88_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2032_-88_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2032_-88_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2032_-88_833.hdr' -- Trying non HDR 'maps/boxbama01/c2032_-88_833'
+"materials/maps/boxbama01/c2032_-88_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2032_-88_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1848_-96_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1848_-96_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1848_-96_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1848_-96_833.hdr' -- Trying non HDR 'maps/boxbama01/c1848_-96_833'
+"materials/maps/boxbama01/c1848_-96_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1848_-96_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2232_-112_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2232_-112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2232_-112_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2232_-112_833.hdr' -- Trying non HDR 'maps/boxbama01/c2232_-112_833'
+"materials/maps/boxbama01/c2232_-112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2232_-112_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2391_-56_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2391_-56_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2391_-56_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2391_-56_833.hdr' -- Trying non HDR 'maps/boxbama01/c2391_-56_833'
+"materials/maps/boxbama01/c2391_-56_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2391_-56_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2432_112_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2432_112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_112_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2432_112_833.hdr' -- Trying non HDR 'maps/boxbama01/c2432_112_833'
+"materials/maps/boxbama01/c2432_112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_112_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2784_112_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_112_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2784_112_833.hdr' -- Trying non HDR 'maps/boxbama01/c2784_112_833'
+"materials/maps/boxbama01/c2784_112_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_112_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2736_-72_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2736_-72_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2736_-72_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2736_-72_833.hdr' -- Trying non HDR 'maps/boxbama01/c2736_-72_833'
+"materials/maps/boxbama01/c2736_-72_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2736_-72_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2784_-232_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_-232_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_-232_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2784_-232_833.hdr' -- Trying non HDR 'maps/boxbama01/c2784_-232_833'
+"materials/maps/boxbama01/c2784_-232_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_-232_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2424_-232_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2424_-232_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2424_-232_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2424_-232_833.hdr' -- Trying non HDR 'maps/boxbama01/c2424_-232_833'
+"materials/maps/boxbama01/c2424_-232_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2424_-232_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2432_240_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2432_240_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_240_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2432_240_833.hdr' -- Trying non HDR 'maps/boxbama01/c2432_240_833'
+"materials/maps/boxbama01/c2432_240_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_240_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2784_-344_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_-344_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_-344_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2784_-344_833.hdr' -- Trying non HDR 'maps/boxbama01/c2784_-344_833'
+"materials/maps/boxbama01/c2784_-344_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_-344_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2752_-578_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2752_-578_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2752_-578_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2752_-578_833.hdr' -- Trying non HDR 'maps/boxbama01/c2752_-578_833'
+"materials/maps/boxbama01/c2752_-578_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2752_-578_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2240_-414_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2240_-414_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2240_-414_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2240_-414_833.hdr' -- Trying non HDR 'maps/boxbama01/c2240_-414_833'
+"materials/maps/boxbama01/c2240_-414_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2240_-414_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2216_536_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2216_536_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2216_536_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2216_536_833.hdr' -- Trying non HDR 'maps/boxbama01/c2216_536_833'
+"materials/maps/boxbama01/c2216_536_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2216_536_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2216_1248_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2216_1248_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2216_1248_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2216_1248_833.hdr' -- Trying non HDR 'maps/boxbama01/c2216_1248_833'
+"materials/maps/boxbama01/c2216_1248_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2216_1248_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2296_1048_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2296_1048_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2296_1048_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2296_1048_833.hdr' -- Trying non HDR 'maps/boxbama01/c2296_1048_833'
+"materials/maps/boxbama01/c2296_1048_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2296_1048_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2784_240_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_240_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_240_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2784_240_833.hdr' -- Trying non HDR 'maps/boxbama01/c2784_240_833'
+"materials/maps/boxbama01/c2784_240_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_240_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2840_328_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2840_328_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2840_328_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2840_328_833.hdr' -- Trying non HDR 'maps/boxbama01/c2840_328_833'
+"materials/maps/boxbama01/c2840_328_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2840_328_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2841_479_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2841_479_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2841_479_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2841_479_833.hdr' -- Trying non HDR 'maps/boxbama01/c2841_479_833'
+"materials/maps/boxbama01/c2841_479_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2841_479_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2840_632_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2840_632_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2840_632_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2840_632_833.hdr' -- Trying non HDR 'maps/boxbama01/c2840_632_833'
+"materials/maps/boxbama01/c2840_632_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2840_632_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2776_752_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2776_752_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2776_752_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2776_752_833.hdr' -- Trying non HDR 'maps/boxbama01/c2776_752_833'
+"materials/maps/boxbama01/c2776_752_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2776_752_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2428_751_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2428_751_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2428_751_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2428_751_833.hdr' -- Trying non HDR 'maps/boxbama01/c2428_751_833'
+"materials/maps/boxbama01/c2428_751_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2428_751_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2608_671_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2608_671_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2608_671_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2608_671_833.hdr' -- Trying non HDR 'maps/boxbama01/c2608_671_833'
+"materials/maps/boxbama01/c2608_671_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2608_671_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2600_288_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2600_288_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2600_288_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2600_288_833.hdr' -- Trying non HDR 'maps/boxbama01/c2600_288_833'
+"materials/maps/boxbama01/c2600_288_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2600_288_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2620_458_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2620_458_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2620_458_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2620_458_833.hdr' -- Trying non HDR 'maps/boxbama01/c2620_458_833'
+"materials/maps/boxbama01/c2620_458_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2620_458_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2609_906_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2609_906_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2609_906_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2609_906_833.hdr' -- Trying non HDR 'maps/boxbama01/c2609_906_833'
+"materials/maps/boxbama01/c2609_906_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2609_906_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2416_848_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2416_848_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2416_848_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2416_848_833.hdr' -- Trying non HDR 'maps/boxbama01/c2416_848_833'
+"materials/maps/boxbama01/c2416_848_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2416_848_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2776_848_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2776_848_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2776_848_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2776_848_833.hdr' -- Trying non HDR 'maps/boxbama01/c2776_848_833'
+"materials/maps/boxbama01/c2776_848_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2776_848_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2792_1016_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2792_1016_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2792_1016_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2792_1016_833.hdr' -- Trying non HDR 'maps/boxbama01/c2792_1016_833'
+"materials/maps/boxbama01/c2792_1016_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2792_1016_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2784_1200_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_1200_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_1200_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2784_1200_833.hdr' -- Trying non HDR 'maps/boxbama01/c2784_1200_833'
+"materials/maps/boxbama01/c2784_1200_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2784_1200_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2432_1200_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2432_1200_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_1200_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2432_1200_833.hdr' -- Trying non HDR 'maps/boxbama01/c2432_1200_833'
+"materials/maps/boxbama01/c2432_1200_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2432_1200_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2608_1176_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2608_1176_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2608_1176_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2608_1176_833.hdr' -- Trying non HDR 'maps/boxbama01/c2608_1176_833'
+"materials/maps/boxbama01/c2608_1176_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2608_1176_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2599_1026_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2599_1026_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2599_1026_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2599_1026_833.hdr' -- Trying non HDR 'maps/boxbama01/c2599_1026_833'
+"materials/maps/boxbama01/c2599_1026_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2599_1026_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2839_1122_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2839_1122_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2839_1122_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2839_1122_833.hdr' -- Trying non HDR 'maps/boxbama01/c2839_1122_833'
+"materials/maps/boxbama01/c2839_1122_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2839_1122_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2834_905_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2834_905_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2834_905_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2834_905_833.hdr' -- Trying non HDR 'maps/boxbama01/c2834_905_833'
+"materials/maps/boxbama01/c2834_905_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2834_905_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2434_1327_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2434_1327_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2434_1327_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2434_1327_833.hdr' -- Trying non HDR 'maps/boxbama01/c2434_1327_833'
+"materials/maps/boxbama01/c2434_1327_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2434_1327_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2779_1328_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2779_1328_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2779_1328_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2779_1328_833.hdr' -- Trying non HDR 'maps/boxbama01/c2779_1328_833'
+"materials/maps/boxbama01/c2779_1328_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2779_1328_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2748_1568_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2748_1568_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2748_1568_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2748_1568_833.hdr' -- Trying non HDR 'maps/boxbama01/c2748_1568_833'
+"materials/maps/boxbama01/c2748_1568_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2748_1568_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c2206_1676_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2206_1676_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2206_1676_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c2206_1676_833.hdr' -- Trying non HDR 'maps/boxbama01/c2206_1676_833'
+"materials/maps/boxbama01/c2206_1676_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c2206_1676_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1647_1536_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1647_1536_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1647_1536_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1647_1536_833.hdr' -- Trying non HDR 'maps/boxbama01/c1647_1536_833'
+"materials/maps/boxbama01/c1647_1536_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1647_1536_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1597_1355_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1597_1355_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1597_1355_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1597_1355_833.hdr' -- Trying non HDR 'maps/boxbama01/c1597_1355_833'
+"materials/maps/boxbama01/c1597_1355_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1597_1355_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1953_1352_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1953_1352_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1953_1352_833.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1953_1352_833.hdr' -- Trying non HDR 'maps/boxbama01/c1953_1352_833'
+"materials/maps/boxbama01/c1953_1352_833.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1953_1352_833' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c-992_480_706.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c-992_480_706.vtf": can't be found on disk
+Texture 'maps/boxbama01/c-992_480_706.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c-992_480_706.hdr' -- Trying non HDR 'maps/boxbama01/c-992_480_706'
+"materials/maps/boxbama01/c-992_480_706.vtf": can't be found on disk
+Texture 'maps/boxbama01/c-992_480_706' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c-728_480_837.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c-728_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c-728_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c-728_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c-728_480_837'
+"materials/maps/boxbama01/c-728_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c-728_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c904_480_837.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c904_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c904_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c904_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c904_480_837'
+"materials/maps/boxbama01/c904_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c904_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+Texture 'maps/boxbama01/c904_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c904_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c904_480_837'
+Texture 'maps/boxbama01/c904_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+A custom HDR cubemap "materials/maps/boxbama01/c1407_480_837.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c1407_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1407_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1407_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c1407_480_837'
+"materials/maps/boxbama01/c1407_480_837.vtf": can't be found on disk
+Texture 'maps/boxbama01/c1407_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+Texture 'maps/boxbama01/c1407_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1407_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c1407_480_837'
+Texture 'maps/boxbama01/c1407_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+Texture 'maps/boxbama01/c1407_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1407_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c1407_480_837'
+Texture 'maps/boxbama01/c1407_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+Texture 'maps/boxbama01/c1407_480_837.hdr' not found.
+Couldn't get HDR 'maps/boxbama01/c1407_480_837.hdr' -- Trying non HDR 'maps/boxbama01/c1407_480_837'
+Texture 'maps/boxbama01/c1407_480_837' not found.
+Texture 'maps/boxbama01/cubemapdefault' not found.
+Failed, using default cubemap 'engine/defaultcubemap'
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'water.impactsoft' failed, no such sound script entry
+PrecacheScriptSound 'water.impacthard' failed, no such sound script entry
+PrecacheScriptSound 'cavernrock.impactsoft' failed, no such sound script entry
+PrecacheScriptSound 'cavernrock.impacthard' failed, no such sound script entry
+PrecacheScriptSound 'npc_advisor.shieldblock' failed, no such sound script entry
+SoundEmitter:  adding map sound overrides from maps\boxbama01_level_sounds.txt [1 total, 0 replacements, 0 duplicated replacements]
+PrecacheScriptSound 'ep_02.vort_silo_maghonor02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_silo_maghonor03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_combat_combined01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_combat_combined02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmcomecloser02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmcomecloser01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmsignature01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmsignature02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmsignature03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmsignature04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_closerfm' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_inamongus' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_junc_fmstandnear' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_turret_helpcall01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_turret_helpcall04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_turret_defendus' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_turret_protectalyx' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.vort_turret_protectus' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions05' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions06' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions07' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions08' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions09' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_alert_antlions18' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill01' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill02' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill03' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill04' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill06' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill07' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill08' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill09' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill10' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill11' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill12' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill13' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill14' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill17' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill18' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill19' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_kill20' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled01' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled02' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled03' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled04' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled05' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled06' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled07' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled08' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled09' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled10' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled11' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled12' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled13' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled14' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_buddykilled15' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_calmplususe_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_calmplususe_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_calmplususe_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_calmplususe_04' failed, no such sound script entry
+PrecacheScriptSound 'ep1_citizen.cit_evac_no04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_huntprompt01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_packs01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_packs02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_packs03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_packs04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_huntprompt02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_battle_needyourcar02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_battle_needyourcar03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_battle_needyourcar05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_battle_needyourcar01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_idles13' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave09' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwave10' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_lastwaveannounced09' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_buildingexplo06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_huntprompt05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_healthcall03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_healthcall04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_healthcall01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_healthcall02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_ammocall02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_alyxinside01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_alyxinside02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_alyxinside03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.reb_chop_chopper_hint09' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.rebc_chop_hit01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.rebc_chop_hit02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.rebc_chop_hit03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.rebc_chop_hit04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_followvortnag_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_junc_followvortnag01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_followvortnag_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_junc_followvortnag04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_turretdown01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_turretdown02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_turretdown01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_turretdown02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_incom36' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_followme03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_wegot_breach_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_youturrets' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_24swarm' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_following02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_followme04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_wegot_36_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver4_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_youtake_12_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver4_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver4_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_everywhere' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_moreat12' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_youtake_24_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_head12' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_youtake_36_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_youtake_breach_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_incom36' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_at12' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_wronghole' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_wegot_24_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_youtake_breach_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_and24' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_andbreach' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_wegot_12_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_cantholdout' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_watchall' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_09' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_wegot_36_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_twolights' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_whysomany' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_underest' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_threelights' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_lookalive' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_tunnelpanic_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_following04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_followme05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver2_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver2_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver2_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver2_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver2_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver1_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver1_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_betweenwave_conver3_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_conver3_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_nestbigger' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_gunnags02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_trainingnags01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_trainingnags02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_trainingnags03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_trainingnags04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_neverseen' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_watchvorts_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_watchvorts_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_watchvorts_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_watchvorts_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_watchvorts_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_watchvorts_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_watchvorts_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_watchvorts_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_fightlion_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_fightlion_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_fightlion_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_gosheckley' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_fightlion_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_fightlion_05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_followme02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_fightlion_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_fightlion_02' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_antlions07' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_antlions05' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_antlions12' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_buddykilled13' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_killshots22' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_killlion_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_killlion_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_killlion_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_killlion_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_killlion_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_killlion_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_killlion_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_betweenwave_03' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_killshots01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_vortintrouble' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_gohelpvort' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_dochelpvort' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_vortintrouble' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_gohelpvort' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_dochelpvort' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_vortswantyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_vortscalling' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.sheckley_thosevortswant' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_vortscalling' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.griggs_vortswantyou' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_reload03' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_reload05' failed, no such sound script entry
+PrecacheScriptSound 'ep2_rebel.reb_reload07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_aband_onceagain01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_aband_onceagain02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_aband_onceagain03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_aband_critical' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_train05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_train01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_train02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_done01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_done02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hack_done03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped09' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped10' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped12' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_thanksforhelp03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_swamped07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_seemanyfoe03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_seemanyfoe05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_seemanyfoe06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_seemanyfoe07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_headcrabsurprise01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_headcrabsurprise02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_headcrabsurprise03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worried01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worried03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worrieder_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worrieder_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriederer02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriederer03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriedest01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriedest02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriedest03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_worriedest04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_stayclose01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_relief03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_relief04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_relief01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_relief02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_attack01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_attack02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_attack03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_noises01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_noises04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_noises07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_lightout02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_lightout04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out16' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_out17' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_generic01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_generic02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_generic03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_zombie' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_antlion' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_barnacle01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_barnacle02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_player_healthlow01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_player_healthlow02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_player_healthlow03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_getbusy' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_startcombat01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_startcombat02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_startcombat03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_startcombat04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_start01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_start02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_start03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_start04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_start05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_gradual_quiet_06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_sudden08' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_yeah01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_yeah02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_nice' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_nicepunt01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_nicepunt02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombie_liveone01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombie_liveone02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombie_itsalive01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshooting01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshooting02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshooting03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshot01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshot02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshot03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_goodshot04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshot01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshot02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshot03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshot04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshooting01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_niceshooting02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_light_recharge05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_deaf_what' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_deaf_canthearyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_deaf_canthearanything' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_deaf_saysomething' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_deaf_earsringing' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombine_grenadewarn01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombine_grenadewarn02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_zombine_grenadewarn03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_laugh07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_laugh09' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlionsuphere' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_behindyou01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_playerdeath02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_playerfalls03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reload01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reload02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reload03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reloading_new06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reloading_new02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reloading_new03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_reloading_new04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_lightem' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_burnem01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_burnem02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_zombq01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_zombq02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_affirm01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_affirm03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_affirm05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_playerstare01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_playerstare02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lead_start05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lead_start06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_gettowhiteforest02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_timetogo01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_giveupnow01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_giveupnow02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_plususe04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_plususe03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_plususe01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_str_carnag02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_str_carnag03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_dontgiveup01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_dontgiveup02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_seedad01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_seedad02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_seemag' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_notwithoutyou01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_notwithoutyou02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_gettowhiteforest01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_nexttome01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_junc_nexttome02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_sudden01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_panic02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_sudden12' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_guard_keepmoving06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_platform_getin' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_platform_getingordon' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_letsgo02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_backinsidenag01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_zombiestuff' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_plususe02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_plususe01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_thisway' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lead_comingback04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_str_overhere' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lead_catchup08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crash04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crash06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_fight08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_ambush_morecoming' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_combat_grim_09' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_ambush_holdemoff' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_gothim01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_ambush_linesight' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_ambush_howyoudoing' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_zombies02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rbed_zombies03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_boom06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_nicemove01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_getpoweron02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_posthunters01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_thick01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_lookforradio01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_lookforradio02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_lookforradio03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_use_findtrans01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_use_findtrans02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_use_powertotrans01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_use_powertotrans02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_silo_wheregoing' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_silo_needyouhere' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.mag_silo_thisway' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_youshouldhelp' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_silo_meetincontrolroom' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_nags01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_nags02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_nags03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_throwmed01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_throwmed02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_throwmed03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_throwmed04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_throwmed05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_nagdoor01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_chop_nagdoor02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_rad_usecar' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_cannon_fixedcar' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lift_tocore' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lift_getmoving' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lift_vulnerable' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_lift_powerout' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_pinned' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_cantgetthru' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_bringroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_cits01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_cits02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_cits03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_nextgroup01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_nextgroup02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_nextgroup03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_nextgroup04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_nextgroup05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_protect01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_protect02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_protect03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_protect04' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_protect05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_garage_hearthink' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_garage_stragglers01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_garage_stragglers02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_congrat01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlions_cutsupply' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlions_keepcontrol' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlions_runoutbullets' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlions_goodidea' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_antlions_plugthatway' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_start_getgravgun03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_start_getgravgun02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_nag_keepmoving01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_nag_keepmoving02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_nag_keepmoving03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_getinvan_nag01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_getinvan_nag02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_getinvan_nag03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_crumbling' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_apartatseams' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_block_canyoumovethat' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_block_movedebris' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_block_comeon' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_whereyougoing' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_itsthiswaygordon' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_itsthisway' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_start_getgravgun01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_hurrygord01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_getstarted' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_needtokeepmoving' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalkers_findroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalkers_getone' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalkers_letitgo' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalkers_pitchit' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_getemoff03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_getemoff07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_getemoff09' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_getemoff06' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_crushed01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_stalk_crushed02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_pb_findapb' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_pb_reminders02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_dark_needlight_01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_pb_reminders05' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_comeherehelpme01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_comeherehelpme02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_comeherehelpme03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_letsgo01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_letsgo03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_elev_power_nag01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_elev_power_nag02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_elev_power_nag03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_elev_hearsomething' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_remind01' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_remind02' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_remind03' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_evac_remind04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_newdetect01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_newdetect02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_newdetect03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_newdetect04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_radar_newdetect05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_getgoing02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_getgoing04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_playerout02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_playerout03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_playerout05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_stayincar07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_playerout06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_startle04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crash02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_callback02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_callback03' failed, no such sound script entry
+PrecacheScriptSound 'npc_alyx.vehicle_impact_hard' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crash05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crash07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crazy02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_laughing06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_laughing08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_laughing10' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crazy04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crazy06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crazy07' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_crazy08' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_beenawhile' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_comments03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled01a' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled01b' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled06' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_rolled07' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_laugh03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_runafter01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_runafter02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_runafter03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_runafter04' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_runafter05' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_catchup01' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_catchup02' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_catchup03' failed, no such sound script entry
+PrecacheScriptSound 'ep_02.al_car_catchup04' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Explosion' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.WhizFlyby' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Impact' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Empty' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Burst' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special1' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special2' failed, no such sound script entry
+LEVEL DESIGN ERROR: Entity dooropen is parented to itself!
+prop_physics at 2844 1016 809 uses model models/props_interiors/furniture_cabinetdrawer02a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_physics at 2843 -68 808 uses model models/props_interiors/furniture_cabinetdrawer02a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 12 classes, 3652 bytes.
+Game started
+CTFSteamStats: failed to download stats from Steam, EResult 2
+
+Half-Life 2
+Map: boxbama01
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+SurfFlagsToSortGroup:  unhandled flags (4000900) (nature/blenddirtgrass001b)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-77.0, -432.8, 400.5)
+SurfFlagsToSortGroup:  unhandled flags (4000941) (tools/toolsnodraw)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-77.0, -432.8, 399.1)
+SurfFlagsToSortGroup:  unhandled flags (4000941) (tools/toolsnodraw)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-304.0, -432.8, 399.8)
+SurfFlagsToSortGroup:  unhandled flags (4000900) (nature/blenddirtgrass001b)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (149.9, -432.8, 399.8)
+SurfFlagsToSortGroup:  unhandled flags (4000900) (nature/blenddirtgrass001b)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-77.0, -391.5, 399.8)
+SurfFlagsToSortGroup:  unhandled flags (4000940) (nature/blenddirtgrass001b)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-77.0, -474.0, 399.8)
+SurfFlagsToSortGroup:  unhandled flags (4000900) (nature/blenddirtgrass001b)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-272.5, -514.3, 400.5)
+SurfFlagsToSortGroup:  unhandled flags (4000941) (tools/toolsnodraw)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-272.5, -514.3, 399.1)
+SurfFlagsToSortGroup:  unhandled flags (4000941) (tools/toolsnodraw)!
+- This implies you have a surface (usually a displacement) embedded in solid.
+- Look near (-304.0, -514.3, 399.8)
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/boxbama01.txt.
+Sending full update to Client Box Obama
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 50.065 KB, outgoing 2.320 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
+Queued Material System: DISABLED!
+R_RedownloadAllLightmaps took 13.782 msec!
+Requesting full game update...
+Queued Material System: ENABLED!
+A custom HDR cubemap "materials/maps/boxbama01/c2784_-232_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_-232_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2784_112_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2784_112_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2834_905_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2834_905_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2839_1122_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2839_1122_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2840_328_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2840_328_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2840_632_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2840_632_833.vtf": can't be found on disk
+A custom HDR cubemap "materials/maps/boxbama01/c2841_479_833.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+"materials/maps/boxbama01/c2841_479_833.vtf": can't be found on disk
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 13.292 msec!
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043d_-992_480_706)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043d_1597_1355_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043d_-728_480_837)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043c_2216_536_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall044b_2784_240_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043c_2784_240_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall044b_2600_288_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall043c_2600_288_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall044b_2432_240_833)
+Requesting texture value from var "$bumpmap" which is not a texture value (material: maps/boxbama01/plaster/plasterwall044b_2840_632_833)
+Sending full update to Client Box Obama
+Sending full update to Client Box Obama
+SoundEmitter:  removing map sound overrides [1 to remove, 0 to restore]
+Queued Material System: DISABLED!
+Dropped Box Obama from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!

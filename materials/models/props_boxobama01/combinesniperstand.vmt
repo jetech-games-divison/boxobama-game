@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_boxobama01/combinesniperstand"
+	"$bumpmap" "models/props_boxobama01/combinesniperstand_normal"
+
+	"$normalmap" "models/props_boxobama01/combinesniperstand_normal"
+}

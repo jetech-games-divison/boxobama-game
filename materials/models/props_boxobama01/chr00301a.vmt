@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_boxobama01/chr00301a"
+	"$envmap" env_cubemap
+//     	"$basealphaenvmapmask" 1 
+	"$envmapmask" "models/props_boxobama01/chr00301_mask"
+	"$surfaceprop" "Wood_Furniture"
+}

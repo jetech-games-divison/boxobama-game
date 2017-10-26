@@ -1,0 +1,33 @@
+VertexLitGeneric
+{
+
+	// MAIN SETTINGS
+	$basetexture                "models/weapons/akm/akm"
+	$bumpmap                    "models/weapons/akm/akm_normal"
+	$halflambert                1
+
+	// PHONG
+	$phong                      1
+	$phongboost                 0.2
+	$phongfresnelranges         "[1 3 6]"
+	$phongtint                  "[1 1 1]"
+//	$phongexponent "20"
+	$phongexponenttexture		"models/weapons/akm/AKM_exponent"
+	$phongalbedotint            1
+	$phongalbedoboost           25
+	$basemapalphaphongmask   1
+
+
+	// ENVIRONMENT MAP
+	$envmap                     env_cubemap
+	$envmaptint                 "[.05 .05 .05]"
+	$envmapfresnel              1
+	$basemapalphaenvmapmask   1
+
+	// RIM LIGHT
+	$rimlight                   1
+	$rimlightexponent           40
+	$rimlightboost              0.4
+	$rimmask                    1
+
+}

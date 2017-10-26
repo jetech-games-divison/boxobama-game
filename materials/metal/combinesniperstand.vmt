@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/props_boxobama01/combinesniperstand"
+	"$bumpmap" "models/props_boxobama01/combinesniperstand_ssbump"
+	"$ssbump" 1
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture	models/shells/9mm/shell_9mm
+	$bumpmap		models/shells/9mm/shell_9mm_normal
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask	1
+	$fresnelreflection	1.0
+}

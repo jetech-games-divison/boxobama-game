@@ -1,0 +1,10 @@
+blood_is_sweet
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"*#music/This Spell [INSTRUMENTAL].wav"
+}

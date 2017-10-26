@@ -1,0 +1,16 @@
+VertexlitGeneric
+{
+	$basetexture	models/props_interiors/furniture_lamp_whitehouse
+	$bumpmap		models/props_interiors/furniture_lamp_whitehouse_normal
+	
+	$phong 1
+
+	$BasemapAlphaPhongMask	0
+	$phongexponent			.9
+//	$phongexponenttexture	[texture]
+	$phongboost				.5
+	$phongfresnelranges		"[.5 1 2]"
+
+	$envmap			env_cubemap
+	$normalmapalphaenvmapmask 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/boxobama"
+	"$surfaceprop" "Wood_Box"
+	"$bumpmap" "models/props/boxobama_ssbump"
+
+	"$ssbump" "1"
+}

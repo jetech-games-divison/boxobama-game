@@ -1,0 +1,10 @@
+shootem_up
+{
+	channel		CHAN_STATIC
+	volume		.85
+	pitch		100
+
+	soundlevel	0
+
+	wave		"*#music/SCHOOL SHOOTING.mp3"
+}

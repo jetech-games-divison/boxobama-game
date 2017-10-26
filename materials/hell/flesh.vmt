@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hell/flesh"
+	"$bumpmap" "hell/flesh_bump"
+}
