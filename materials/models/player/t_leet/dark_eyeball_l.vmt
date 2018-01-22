@@ -1,0 +1,8 @@
+EyeRefract
+{
+	$iris	engine/eye-iris-brown
+	$envmap	engine/eye-reflection-cubemap
+	$AmbientOcclTexture	engine/eye-extra
+	$corneatexture	engine/eye-cornea
+	"$Dilation" ".6"
+}
