@@ -1,0 +1,10 @@
+puzzled_solved
+{
+	channel		CHAN_STATIC
+	volume		100
+	pitch		100
+
+	soundlevel	0
+
+	wave		"*#puzzle solved.wav"
+}
