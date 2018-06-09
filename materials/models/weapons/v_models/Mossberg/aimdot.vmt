@@ -1,0 +1,5 @@
+"UnLitGeneric"
+{
+	$translucent			1
+	$baseTexture 			"models\Weapons\v_Models\Mossberg\aimdot"
+}

@@ -45,12 +45,12 @@ WeaponData
 		weapon
 		{
 				font WeaponIcons
-				character f
+				character b
 		}
 		weapon_s
 		{	
 				font WeaponIconsSelected
-				character f
+				character b
 		}
 		"weapon_small"
 		{
@@ -59,8 +59,8 @@ WeaponData
 		}
 		ammo
 		{
-				font WeaponIconsSmall
-				character u
+				font AmmoIcons
+				character V
 		}
 		crosshair
 		{
