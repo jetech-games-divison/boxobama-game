@@ -4,8 +4,7 @@ VertexLitGeneric
 	$bumpmap		models/props_borealis/bluebarrel001_normal
 
 	$phong	1
-	$phongexponent			5			// either/or
-//	$phongexponenttexture	[texture]	// either/or
+	$phongexponent			5
 	$phongboost				1.0
 	$phongfresnelranges		"[.05 .5 1]"
 
