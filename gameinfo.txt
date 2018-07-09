@@ -10,8 +10,6 @@ GameInfo
 	{
 		SteamAppId	243730
 		ToolsAppId	211
-		AdditionalContentId	240
-		ExtraAppId 240
 		SearchPaths
 		{
 			"game+game_write+mod+mod_write+default_write_path"	"|gameinfo_path|."
