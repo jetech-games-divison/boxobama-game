@@ -8,7 +8,7 @@ GameInfo
 	developer_url	"http://je-technology-and-engineering.wikia.com/wiki/JE_Technology_and_Engineering_Wiki"
 	FileSystem
 	{
-		SteamAppId	243730
+		SteamAppId	240
 		ToolsAppId	211
 		SearchPaths
 		{
