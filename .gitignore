@@ -9,3 +9,11 @@
 screenshots
 save
 materialsrc
+voice_ban.dt
+stats.txt
+*.cache
+downloadlists
+GameState.txt
+maps/graphs
+cfg/server_blacklist.txt
+cfg/config.cfg
