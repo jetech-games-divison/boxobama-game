@@ -9,7 +9,6 @@ GameInfo
 	FileSystem
 	{
 		SteamAppId	240
-		ToolsAppId	211
 		SearchPaths
 		{
 			"game+game_write+mod+mod_write+default_write_path"	"|gameinfo_path|."
