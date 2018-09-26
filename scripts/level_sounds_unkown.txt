@@ -1,0 +1,10 @@
+unknown
+{
+	channel		CHAN_STATIC
+	volume		VOL_NORM
+	pitch		PITCH_NORM
+
+	soundlevel	SNDLVL_NORM
+
+	wave		*#music/unknown.mp3
+}

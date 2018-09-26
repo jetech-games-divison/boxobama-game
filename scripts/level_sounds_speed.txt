@@ -1,0 +1,30 @@
+"GO FAST"
+{
+	channel		CHAN_STATIC
+	volume		VOL_NORM
+	pitch		PITCH_NORM
+
+	soundlevel	SNDLVL_NORM
+
+	wave		"*#music/GO FAST.mp3"
+}
+"NOT TODAY"
+{
+	channel		CHAN_STATIC
+	volume		.3
+	pitch		PITCH_NORM
+
+	soundlevel	SNDLVL_NORM
+
+	wave		"*#music/NOT TODAY.mp3"
+}
+"NOT TODAY loop"
+{
+	channel		CHAN_STATIC
+	volume		.3
+	pitch		PITCH_NORM
+
+	soundlevel	SNDLVL_NORM
+
+	wave		"*#music/NOT TODAY loop.mp3"
+}

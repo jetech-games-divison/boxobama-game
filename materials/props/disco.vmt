@@ -1,0 +1,13 @@
+lightmappedGeneric
+{
+	$basetexture	props/disco
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedtexturevar	$basetexture
+			animatedtextureframenumvar	$frame
+			animatedtextureframerate	2
+		}
+	}
+}
