@@ -8,6 +8,7 @@ GameInfo
 	FileSystem
 	{
 		SteamAppId	243730
+		AdditionalContentId 240
 		SearchPaths
 		{
 			"game+game_write+mod+mod_write+default_write_path"	"|gameinfo_path|."
@@ -20,14 +21,15 @@ GameInfo
 			"game"	|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
 			"game"	|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			"game"	|all_source_engine_paths|hl2/hl2_misc.vpk
-//			game	|all_source_engine_paths|cstrike/cstrike_pak.vpk
-			"game"	"E:\Steam\steamapps\common\Half-Life 2\cstrike/cstrike_pak.vpk"
+			"game+mod"	cstrike/cstrike_pak.vpk
+			"game+mod"	|all_source_engine_paths|cstrike/cstrike_pak.vpk
+//			"game"	"E:\Steam\steamapps\common\Half-Life 2\cstrike/cstrike_pak.vpk"
 			platform	|all_source_engine_paths|platform/platform_misc.vpk
 			game	|all_source_engine_paths|ep2
 			game	|all_source_engine_paths|episodic
 			game	|all_source_engine_paths|hl2
-//			game	|all_source_engine_paths|cstrike
-			game	"E:\Steam\steamapps\common\Half-Life 2\cstrike"
+			game	|all_source_engine_paths|cstrike
+//			game	"E:\Steam\steamapps\common\Half-Life 2\cstrike"
 			platform	|all_source_engine_paths|platform
 		}
 	}
