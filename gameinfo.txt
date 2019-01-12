@@ -1,11 +1,9 @@
 GameInfo
 {
 	game		BoxObama
-	type		singleplayer_only
 	icon		"resource/boxobama"
 	developer	JETech
 	developer_url	"http://je-technology-and-engineering.wikia.com/wiki/JE_Technology_and_Engineering_Wiki"
-	SupportsVR	0
 	FileSystem
 	{
 		SteamAppId	243730
@@ -30,9 +28,21 @@ GameInfo
 			platform											|all_source_engine_paths|platform
 			game												|gameinfo_path|cstrike_pak.vpk
 			game												|gameinfo_path|cstrike/cstrike_pak.vpk
-			game	|all_source_engine_paths|cstrike_pak.vpk
-			game	cstrike_pak.vpk
+			game												|all_source_engine_paths|cstrike_pak.vpk
+			game												cstrike_pak.vpk
 			game												cstrike/cstrike_pak.vpk
+			game												|all_source_engine_paths|./cstrike_pak.vpk
+			game												|gameinfo_path|./cstrike_pak.vpk
+			game												|all_source_engine_paths|./cstrike/cstrike_pak.vpk
+			game												|gameinfo_path|./cstrike/cstrike_pak.vpk
+			game												./cstrike_pak.vpk
+			game												./cstrike/cstrike_pak.vpk
+			game												/cstrike_pak.vpk
+			game												/cstrike/cstrike_pak.vpk
+			game												|all_source_engine_paths|/cstrike_pak.vpk
+			game												|gameinfo_path|/cstrike_pak.vpk
+			game												|all_source_engine_paths|/cstrike/cstrike_pak.vpk
+			game												|gameinfo_path|/cstrike/cstrike_pak.vpk
 		}
 	}
 }
