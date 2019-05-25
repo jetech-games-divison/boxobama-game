@@ -21,28 +21,10 @@ GameInfo
 			game												|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game												|all_source_engine_paths|hl2/hl2_misc.vpk
 			platform											|all_source_engine_paths|platform/platform_misc.vpk
-			game												|all_source_engine_paths|cstrike
 			game												|all_source_engine_paths|ep2
 			game												|all_source_engine_paths|episodic
 			game												|all_source_engine_paths|hl2
 			platform											|all_source_engine_paths|platform
-			game												|gameinfo_path|cstrike_pak.vpk
-			game												|gameinfo_path|cstrike/cstrike_pak.vpk
-			game												|all_source_engine_paths|cstrike_pak.vpk
-			game												cstrike_pak.vpk
-			game												cstrike/cstrike_pak.vpk
-			game												|all_source_engine_paths|./cstrike_pak.vpk
-			game												|gameinfo_path|./cstrike_pak.vpk
-			game												|all_source_engine_paths|./cstrike/cstrike_pak.vpk
-			game												|gameinfo_path|./cstrike/cstrike_pak.vpk
-			game												./cstrike_pak.vpk
-			game												./cstrike/cstrike_pak.vpk
-			game												/cstrike_pak.vpk
-			game												/cstrike/cstrike_pak.vpk
-			game												|all_source_engine_paths|/cstrike_pak.vpk
-			game												|gameinfo_path|/cstrike_pak.vpk
-			game												|all_source_engine_paths|/cstrike/cstrike_pak.vpk
-			game												|gameinfo_path|/cstrike/cstrike_pak.vpk
 		}
 	}
 }
