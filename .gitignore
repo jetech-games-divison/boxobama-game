@@ -17,3 +17,5 @@ GameState.txt
 maps/graphs
 cfg/server_blacklist.txt
 cfg/config.cfg
+cfg/user.scr
+cfg/autoexec.cfg

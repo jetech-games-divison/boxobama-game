@@ -1,8 +1,4 @@
-"VertexlitGeneric"
+VertexlitGeneric
 {
-	"$basetexture" "models/props/boxobama_flag"
-	"$surfaceprop" "carpet"
-	"$bumpmap" "models/props/boxobama_flag_ssbump"
-
-	"$ssbump" "1"
+	$basetexture	models/props/boxobama_flag
 }

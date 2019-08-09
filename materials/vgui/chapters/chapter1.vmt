@@ -1,5 +1,5 @@
-"UnlitGeneric"
+UnlitGeneric
 {
-  "$baseTexture" "VGUI/chapters/chapter1"
-  "$vertexalpha" 1
+  $baseTexture	VGUI/chapters/chapter1
+  $vertexalpha	1
 }

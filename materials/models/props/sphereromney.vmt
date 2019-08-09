@@ -1,6 +1,4 @@
-"VertexlitGeneric"
+VertexlitGeneric
 {
-	"$basetexture" "models/props/sphereromney"
-	"$bumpmap" "models/props/sphereromney_ssbump"
-	"$surfaceprop" "Default"
+	$basetexture	models/props/sphereromney
 }
