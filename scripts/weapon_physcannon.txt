@@ -1,0 +1,55 @@
+WeaponData
+{
+	printname	"Physics Cannon"
+	viewmodel	models/weapons/v_physcannon.mdl
+	playermodel	models/weapons/w_Physics.mdl
+	anim_prefix	gauss
+	bucket	0
+	bucket_position	1
+	bucket_360	2
+	bucket_position_360	1
+	weight	0
+	autoswitchto	0
+	autoswitchfrom	0
+	item_flags	2
+	BuiltRightHanded	1
+	AllowFlipping	1
+	showusagehint	False
+	SoundData
+	{
+		single_shot	Weapon_PhysCannon.Launch
+		empty	Weapon_PhysCannon.DryFire
+		reload	Weapon_PhysCannon.Charge
+		melee_miss	Weapon_PhysCannon.Drop
+		melee_hit	Weapon_PhysCannon.CloseClaws
+		special1	Weapon_PhysCannon.Pickup
+		special2	Weapon_PhysCannon.OpenClaws
+		special3	Weapon_PhysCannon.TooHeavy
+	}
+	TextureData
+	{
+		weapon
+		{
+			font	WeaponIconsHL2
+			character	m
+		}
+		weapon_s
+		{
+			font	WeaponIconsSelectedHL2
+			character	m
+		}
+		crosshair
+		{
+			font	Crosshairs
+			character	Q
+		}
+		autoaim
+		{
+			file	sprites/crosshairs
+			x	48
+			y	72
+			width	24
+			height	24
+		}
+	}
+}

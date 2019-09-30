@@ -1,0 +1,67 @@
+WeaponData
+{
+	printname	#boxobama_weapon_M3Super90
+	viewmodel	models/weapons/v_shot_m3super90.mdl
+	playermodel	models/weapons/w_shotgun.mdl
+	anim_prefix	shotgun
+	bucket	3
+	bucket_position	0
+	bucket_360	1
+	bucket_position_360	1
+	clip_size	8
+	default_clip	8
+	primary_ammo	Buckshot
+	weight	9
+	rumble	5
+	item_flags	0
+	autoswitchto	1
+	autoswitchfrom	1
+	BuiltRightHanded	1
+	AllowFlipping	1
+	showusagehint	False
+	SoundData
+	{
+		single_shot	Weapon_M3.Single
+		single_shot_npc	Weapon_XM1014.Single
+		double_shot	Weapon_M3.Single
+		empty	Weapon_Shotgun.Empty
+		reload_npc	Weapon_Shotgun.Reload
+		special1	Weapon_Shotgun.Special1
+	}
+	TextureData
+	{
+		weapon
+		{
+			font	WeaponIcons
+			character	k
+		}
+		weapon_s
+		{
+			font	WeaponIconsSelected
+			character	k
+		}
+		weapon_small
+		{
+			font		WeaponIconsSmall
+			character	k
+		}
+		ammo
+		{
+			font	AmmoIcons
+			character	J
+		}
+		crosshair
+		{
+			font	Crosshairs
+			character	Q
+		}
+		autoaim
+		{
+			file	sprites/crosshairs
+			x	0
+			y	48
+			width	24
+			height	24
+		}
+	}
+}

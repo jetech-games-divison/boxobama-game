@@ -1,0 +1,65 @@
+WeaponData
+{
+	printname		#boxobama_Weapon_Glock18
+	viewmodel		models/weapons/v_pist_glock18.mdl
+	playermodel		models/weapons/w_pist_glock18.mdl
+	anim_prefix		pistol
+	bucket			1
+	bucket_position		0
+	clip_size		20
+	default_clip		20
+	primary_ammo		9MM
+	weight			8
+	rumble			1
+	item_flags		0
+	autoswitchto		1
+	autoswitchfrom		1
+	BuiltRightHanded	0
+	AllowFlipping		1
+	showusagehint		false
+
+	SoundData
+	{
+		single_shot		Weapon_Glock.Single
+		single_shot_npc	Weapon_Pistol.NPC_Single
+		empty			Weapon_Pistol.Empty
+		reload			Weapon_Pistol.Reload
+		reload_npc		Weapon_Pistol.NPC_Reload
+	}
+	TextureData
+	{
+		weapon
+		{
+			font	WeaponIcons
+			character	c
+		}
+		weapon_s
+		{
+			font	WeaponIconsSelected
+			character	c
+		}
+		weapon_small
+		{
+			font		WeaponIconsSmall
+			character	c
+		}
+		ammo
+		{
+			font	AmmoIcons
+			character	R
+		}
+		crosshair
+		{
+			font	Crosshairs
+			character	Q
+		}
+		autoaim
+		{
+			file	sprites/crosshairs
+			x	0
+			y	48
+			width	24
+			height	24
+		}
+	}
+}

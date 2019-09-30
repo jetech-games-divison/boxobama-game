@@ -1,0 +1,72 @@
+WeaponData
+{
+	printname	M4A1
+	viewmodel	models/weapons/v_rif_m4a1.mdl
+	playermodel	models/weapons/w_rif_m4a1.mdl
+	anim_prefix	ar2
+	bucket	2
+	bucket_position	2
+	bucket_360	1
+	bucket_position_360	2
+	clip_size	30
+	default_clip	30
+	clip2_size	-1
+	default_clip2	-1
+	primary_ammo	556
+	secondary_ammo	None
+	weight	11
+	rumble	4
+	item_flags	0
+	autoswitchto	1
+	autoswitchfrom	1
+	BuiltRightHanded	0
+	AllowFlipping	1
+	showusagehint	False
+	SoundData
+	{
+		single_shot		Weapon_M4A1.Single
+		single_shot_npc	Weapon_M4A1.Single
+		empty			Weapon_SMG1.Empty
+		reload			Weapon_AR2.Reload
+		reload_npc		Weapon_AR2.NPC_Reload
+		special1		Weapon_M4A1.Silenced
+		special2		Weapon_M4A1.Silencer_Off
+		special3		Weapon_M4A1.Silencer_On
+	}
+	TextureData
+	{
+		weapon
+		{
+			font		WeaponIcons
+			character	w
+		}
+		weapon_s
+		{	
+			font		WeaponIconsSelected
+			character	w
+		}
+		weapon_small
+		{
+			font		WeaponIconsSmall
+			character	w
+		}
+		ammo
+		{
+			font		AmmoIcons
+			character	N
+		}	
+		crosshair
+		{
+			font		Crosshairs
+			character	Q
+		}
+		autoaim
+		{
+			file		sprites/crosshairs
+			x			0
+			y			48
+			width		24
+			height	24
+		}
+	}
+}

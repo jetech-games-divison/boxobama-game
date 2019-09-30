@@ -3,7 +3,7 @@
 WeaponData
 {
 	// Weapon data is loaded by both the Game and Client DLLs.
-	printname #Cstrike_WPNHUD_AK47
+	printname #boxobama_Weapon_AK47
 	viewmodel models/weapons/v_rif_ak47.mdl
 	playermodel models/weapons/w_rif_ak47.mdl
 	anim_prefix ar2
@@ -13,10 +13,7 @@ WeaponData
 	bucket_position_360 2
 
 	clip_size 30
-	default_clip 30
-
-	"clip2_size"			"-1"
-	"default_clip2"			"-1"
+	default_clip 27
 
 	primary_ammo AR2
 
@@ -27,16 +24,13 @@ WeaponData
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 single_shot sounds)
 	SoundData
 	{
-		"special1"		"Weapon_CombineGuard.Special1"
-		empty Default.ClipEmpty_Rifle
-		"double_shot"		"Weapon_IRifle.Single"
-		"reload"		"Weapon_AR2.Reload"
-		single_shot Weapon_AK47.Single
+		empty 			Default.ClipEmpty_Rifle
+		single_shot 	Weapon_AK47.Single
 
 		// NPC SECTION
 		single_shot_npc Weapon_AK47.Single
-		"reload_npc"		"Weapon_AR2.NPC_Reload"
-		"double_shot_npc"	"Weapon_AR2.NPC_Double"
+		reload_npc		Weapon_AR2.NPC_Reload
+		double_shot_npc	Weapon_AR2.NPC_Double
 	}
 	// Weapon Sprite data is loaded by the Client DLL.
 	TextureData
@@ -44,36 +38,36 @@ WeaponData
 		//Weapon Select Images
 		weapon
 		{
-				font WeaponIcons
-				character b
+			font 		WeaponIcons
+			character	b
 		}
 		weapon_s
 		{	
-				font WeaponIconsSelected
-				character b
+			font 		WeaponIconsSelected
+			character	b
 		}
-		"weapon_small"
+		weapon_small
 		{
-				"font"		"WeaponIconsSmall"
-				"character"	"f"
+			font		WeaponIconsSmall
+			character	b
 		}
 		ammo
 		{
-				font AmmoIcons
-				character V
+			font 		AmmoIcons
+			character	V
 		}
 		crosshair
 		{
-			"font"	"Crosshairs"
-			"character"	"Q"
+			font		Crosshairs
+			character	Q
 		}
 		autoaim
 		{
-				file sprites/crosshairs
-				x 0
-				y 48
-				width 24
-				height 24
+			file sprites/crosshairs
+			x 0
+			y 48
+			width 24
+			height 24
 		}
 	}
 }

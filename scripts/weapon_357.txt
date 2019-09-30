@@ -1,0 +1,64 @@
+WeaponData
+{
+	printname	#boxobama_Weapon_DEagle
+	viewmodel	models/weapons/v_pist_deagle.mdl
+	playermodel	models/weapons/w_pist_deagle.mdl
+	anim_prefix	python
+	bucket				1
+	bucket_position		1
+	bucket_360			0
+	bucket_position_360	1
+	clip_size		7
+	default_clip	3
+	primary_ammo	50AE
+	weight	7
+	rumble	2
+	item_flags	0
+	autoswitchto	1
+	autoswitchfrom	1
+	BuiltRightHanded	0
+	AllowFlipping	1
+	showusagehint	False
+	Bullets	1
+	CycleTime	0.225
+	SoundData
+	{
+		single_shot	Weapon_DEagle.Single
+	}
+	TextureData
+	{
+		weapon
+		{
+			font		WeaponIcons
+			character	f
+		}
+		weapon_s
+		{
+			font		WeaponIconsSelected
+			character	f
+		}
+		weapon_small
+		{
+			font		WeaponIconsSmall
+			character	f
+		}
+		ammo
+		{
+			font		AmmoIcons
+			character	U
+		}
+		crosshair
+		{
+			font		Crosshairs
+			character	Q
+		}
+		autoaim
+		{
+			file	sprites/crosshairs
+			x	0
+			y	48
+			width	24
+			height	24
+		}
+	}
+}

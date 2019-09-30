@@ -1,0 +1,19 @@
+lang
+{
+	Language	English
+	Tokens
+	{
+		//UI Stuff
+		boxobama_Chapter1_Title	"Welcome 2 BoxObama"
+		boxobama_Chapter2_Title	"The Tunnel of ObamaCare"
+		boxobama_Chapter3_Title	"On the Run from Romney"
+		boxobama_Chapter4_Title	"The Final Frontier"
+		
+		//Weapon Names
+		boxobama_Weapon_AK47		AKM
+		boxobama_Weapon_Glock18		"Glock 18"
+		boxobama_Weapon_MP5			MP5
+		boxobama_Weapon_DEagle		"Desert Eagle"
+		boxobama_weapon_M3Super90	"M3 Super 90 (Pump Action Mode)"
+	}
+}
