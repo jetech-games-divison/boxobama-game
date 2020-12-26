@@ -1,0 +1,60 @@
+boogie
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		#music/i9incher-psychosis.mp3
+}
+boogie_loop
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		#music/i9incher-psychosis_loop.mp3
+}
+Door.Break1
+{
+	channel		CHAN_AUTO
+	volume		1
+	pitch		100
+
+	soundlevel	SNDLVL_140dB
+
+	wave	physics/wood/wood_crate_break1.wav
+}
+Door.Break2
+{
+	channel		CHAN_AUTO
+	volume		1
+	pitch		100
+
+	soundlevel	SNDLVL_140dB
+
+	wave	physics\wood\wood_box_break1.wav
+}
+Door.Break3
+{
+	channel		CHAN_AUTO
+	volume		1
+	pitch		100
+
+	soundlevel	SNDLVL_140dB
+
+	wave	physics\wood\wood_crate_break2.wav
+}
+Door.Break4
+{
+	channel		CHAN_AUTO
+	volume		1
+	pitch		100
+
+	soundlevel	SNDLVL_140dB
+
+	wave	physics\wood\wood_furniture_break1.wav
+}

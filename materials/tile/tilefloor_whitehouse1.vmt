@@ -1,8 +1,14 @@
-LightmappedGeneric
+//LightmappedGeneric
+PBR
 {
-	$basetexture	tile/tilefloor_whitehouse1
-	$surfaceprop	tile
+//	$basetexture	tile/tilefloor_whitehouse1
+	$basetexture	tile/tilefloor_whitehouse1_basecolor
+	$bumpmap		tile/tilefloor_whitehouse1_normal
+	$mraotexture	tile/tilefloor_whitehouse1_mrao
 
+//	$normalmapalphaenvmapmask	1
 	$envmap	env_cubemap
-	$envmaptint "[.75 .75 .75]"
+	$surfaceprop	tile
+	$model			0
+//	$envmaptint "[.75 .75 .75]"
 }

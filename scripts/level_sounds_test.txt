@@ -1,0 +1,54 @@
+hperc_in
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"#music/halo/hperc_in.wav"
+}
+
+hperc_lp1
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"#music/halo/hperc_lp1.wav"
+}
+
+hperc_lp2
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"#music/halo/hperc_lp2.wav"
+}
+
+hperc_lp3
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"#music/halo/hperc_lp3.wav"
+}
+
+hperc_lp4
+{
+	channel		CHAN_STATIC
+	volume		1
+	pitch		100
+
+	soundlevel	0
+
+	wave		"#music/halo/hperc_lp4.wav"
+}

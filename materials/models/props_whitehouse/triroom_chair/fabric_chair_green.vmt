@@ -1,0 +1,8 @@
+PBR
+{
+	$model	1
+	$basetexture	models/props_whitehouse/triroom_chair/fabric_chair_green
+	$mraotexture	models/props_whitehouse/triroom_chair/fabric_chair_red_MRAO
+	$bumpmap		models/props_whitehouse/triroom_chair/fabric_chair_red_Normal
+	$envmap	env_cubemap
+}

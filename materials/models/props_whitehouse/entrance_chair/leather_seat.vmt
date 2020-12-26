@@ -1,0 +1,8 @@
+PBR
+{
+	$model	1
+	$basetexture	models/props_whitehouse/entrance_chair/leather_seat
+	$mraotexture	models/props_whitehouse/entrance_chair/leather_seat_mrao
+	$bumpmap		models/props_whitehouse/entrance_chair/leather_seat_Normal
+	$envmap			env_cubemap
+}

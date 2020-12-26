@@ -1,31 +1,43 @@
 GameInfo
 {
 	game		BoxObama
-	icon		"resource/boxobama"
+	gamedata	..\..\sourcemods\boxobama\boxobama.fgd
+	icon		resource/boxobama
 	developer	JETech
-	developer_url	"http://je-technology-and-engineering.wikia.com/wiki/JE_Technology_and_Engineering_Wiki"
+	type		singleplayer_only
 	FileSystem
 	{
 		SteamAppId	243730
 		SearchPaths
 		{
-			game+game_write+mod+mod_write+default_write_path	|gameinfo_path|.
-			gamebin												|gameinfo_path|bin
-			game_lv												|all_source_engine_paths|hl2/hl2_lv.vpk
-			game												|all_source_engine_paths|ep2/ep2_pak.vpk
-			game												|all_source_engine_paths|episodic/ep1_pak.vpk
-			game												|all_source_engine_paths|hl2/hl2_pak.vpk
-			game												|all_source_engine_paths|hl2/hl2_textures.vpk
-			game												|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
-			game												|all_source_engine_paths|hl2/hl2_sound_misc.vpk
-			game												|all_source_engine_paths|hl2/hl2_misc.vpk
-			game												"E:\Steam\steamapps\common\Counter-Strike Source\cstrike\cstrike_pak.vpk"
-			platform											|all_source_engine_paths|platform/platform_misc.vpk
-			game												|all_source_engine_paths|ep2
-			game												|all_source_engine_paths|episodic
-			game												|all_source_engine_paths|hl2
-			game												"E:\Steam\steamapps\common\Counter-Strike Source\cstrike"
-			platform											|all_source_engine_paths|platform
+			game+game_write+mod+mod_write+default_write_path		|gameinfo_path|.
+			gamebin										|gameinfo_path|bin
+			game+mod									|gameinfo_path|../mapbase_episodic
+			game+mod									|gameinfo_path|../mapbase_episodic/content/*
+			game+mod									|gameinfo_path|../mapbase_hl2
+			game+mod									|gameinfo_path|../mapbase_hl2/content/*
+			game+mod									|gameinfo_path|../mapbase_shared/shared_misc
+			game+mod									|gameinfo_path|../mapbase_shared/shared_content.vpk
+
+			game_lv										|all_source_engine_paths|hl2/hl2_lv.vpk
+			game										|all_source_engine_paths|ep2/ep2_english.vpk
+			game										|all_source_engine_paths|ep2/ep2_pak.vpk
+			game										|all_source_engine_paths|episodic/ep1_english.vpk
+			game										|all_source_engine_paths|episodic/ep1_pak.vpk
+			game										|all_source_engine_paths|hl2/hl2_english.vpk
+			game										|all_source_engine_paths|hl2/hl2_pak.vpk
+			game										|all_source_engine_paths|hl2/hl2_textures.vpk
+			game										|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+			game										|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game										|all_source_engine_paths|hl2/hl2_misc.vpk
+			game										"E:\Steam\steamapps\common\Counter-Strike Source\cstrike\cstrike_pak.vpk"
+			platform									|all_source_engine_paths|platform/platform_misc.vpk
+
+			game										|all_source_engine_paths|ep2
+			game										|all_source_engine_paths|episodic
+			game										|all_source_engine_paths|hl2
+			game										"E:\Steam\steamapps\common\Counter-Strike Source\cstrike"
+			platform									|all_source_engine_paths|platform
 		}
 	}
 }

@@ -1,0 +1,7 @@
+PBR
+{
+	$model	1
+	$basetexture	models/props_whitehouse/triroom_chair/wood_chair_dark
+	$mraotexture	models/props_whitehouse/triroom_chair/wood_chair_dark_mrao
+	$envmap	env_cubemap
+}

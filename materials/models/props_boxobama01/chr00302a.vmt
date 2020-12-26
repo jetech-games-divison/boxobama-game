@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/props_boxobama01/chr00302a"
-	"$bumpmap" "models/props_boxobama01/chr00302_normal"
-	"$normalmap" "models/props_boxobama01/chr00302_normal"
-	"$surfaceprop" "cloth"
-}
